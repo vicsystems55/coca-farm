@@ -4,14 +4,14 @@
 
     <!-- Start Breadcrumb
     ============================================= -->
-    <div class="breadcrumb-area text-center shadow dark bg-fixed text-light" style="background-image: url(assets/img/banner/5.jpg);">
+    <div class="breadcrumb-area text-center shadow dark bg-fixed text-light" style="background-image: url(assets/img/banner/55.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <h1>About Us</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                            <li><a href="index-2.html"><i class="fas fa-home"></i> Home</a></li>
+                            <li><a href="index-2"><i class="fas fa-home"></i> Home</a></li>
                             <li class="active">About</li>
                         </ol>
                     </nav>
@@ -35,41 +35,24 @@
             <div class="row align-center">
                 <div class="col-xl-5 col-lg-6 about-style-one pr-50 pr-md-15 pr-xs-15">
                     <div class="thumb">
-                        <img src="{{asset('/')}}assets/img/about/5.jpg" alt="Image Not Found">
+                        <img src="{{asset('/')}}assets/img/about/12.jpg" alt="Image Not Found">
                         <div class="sub-item">
-                            <img src="{{asset('/')}}assets/img/about/1.jpg" alt="Image Not Found">
+                            <img src="{{asset('/')}}assets/img/about/11.jpg" alt="Image Not Found">
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-7 col-lg-6 about-style-one">
                     <div class="row align-center">
                         <div class="col-xl-7 col-lg-12">
-                            <h2 class="heading">Agriculture For <br> Future Development</h2>
+
                             <p>
-                                There are many variations of passages of ipsum available but the majority have suffered alteration in some form by injected humor or random word which don’t look even. Comparison new ham melancholy son themselves.
+                                Uchenna Christopher Onyenweaku serves as the President and CEO of Ud-onyenweaku Farm, Nigeria's leading privately owned agricultural enterprise. Committed to delivering top-tier agricultural produce, goods, and services to the Nigerian market, Uchenna is a respected and experienced leader with over three decades of expertise in various sectors including cocoa, root crop, and animal farming.
+
+Mr. Ikenna David, with a distinguished journey from the humble roles of harvester and chief nurseryman to his current position as Chief Operations Officer, brings forth a wealth of over a decade's worth of invaluable experience in the agricultural domain. Armed with a degree in Economics from Abia State University, his transition from the financial sector to the realm of farming underscores his versatile expertise. His strategic oversight now encompasses all facets of farm operations, marking a testament to his multifaceted capabilities and unwavering dedication to agricultural excellence.
                             </p>
-                            <ul class="check-solid-list mt-20">
-                                <li>Organic food contains more vitamins</li>
-                                <li>Eat organic because supply meets demand</li>
-                                <li>Organic food is never irradiated</li>
-                            </ul>
+
                         </div>
-                        <div class="col-xl-5 col-lg-12 pl-50 pl-md-15 pl-xs-15">
-                            <div class="top-product-item">
-                                <img src="{{asset('/')}}assets/img/icon/1.svg" alt="Icon">
-                                <h5><a href="services-details.html">Natural Farming</a></h5>
-                                <p>
-                                    Resolve parties but trying she shewing of moment.
-                                </p>
-                            </div>
-                            <div class="top-product-item">
-                                <img src="{{asset('/')}}assets/img/icon/2.svg" alt="Icon">
-                                <h5><a href="services-details.html">Quality Products</a></h5>
-                                <p>
-                                    Always parties but trying she shewing of moment.
-                                </p>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
             </div>
@@ -79,7 +62,7 @@
 
     <!-- Start Farmer
     ============================================= -->
-    <div class="farmer-area default-padding bottom-less bg-gray" style="background-image: url(assets/img/shape/36.png);">
+    <div class="d-none farmer-area default-padding bottom-less bg-gray" style="background-image: url(assets/img/shape/36.png);">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
@@ -127,7 +110,7 @@
                                 </div>
                                 <div class="info">
                                     <span>Farmer of tomatoes</span>
-                                    <h4><a href="team-details.html">Aleesha Brown</a></h4>
+                                    <h4><a href="team-details">Aleesha Brown</a></h4>
                                 </div>
                             </div>
                         </div>
@@ -160,7 +143,7 @@
                                 </div>
                                 <div class="info">
                                     <span>Farmer of cherry</span>
-                                    <h4><a href="team-details.html">Kevin Martin</a></h4>
+                                    <h4><a href="team-details">Kevin Martin</a></h4>
                                 </div>
                             </div>
                         </div>
@@ -193,7 +176,7 @@
                                 </div>
                                 <div class="info">
                                     <span>Farmer of potato</span>
-                                    <h4><a href="team-details.html">Sarah Albert</a></h4>
+                                    <h4><a href="team-details">Sarah Albert</a></h4>
                                 </div>
                             </div>
                         </div>
@@ -208,7 +191,7 @@
 
     <!-- Start Food Order Process
     ============================================= -->
-    <div class="process-area default-padding">
+    <div class="d-none process-area default-padding">
         <div class="container">
             <div class="row">
                 <div class="col-lg-5 process-style-one">
@@ -283,19 +266,18 @@
     </div>
     <!-- End Food Order Process -->
 
-    <!-- Start Testimonials
+   <!-- Start Testimonials
     ============================================= -->
-    <div class="testimonials-area default-padding bg-gray" style="background-image: url({{asset('/')}}assets/img/shape/23.png);">
+    <div class="testimonials-area default-padding bg-gray" style="background-image: url(assets/img/shape/23.png);">
         <div class="container">
             <div class="row align-center">
                 <div class="col-lg-5">
                     <div class="testimonial-info text-center">
                         <h4>Testimonial</h4>
                         <div class="thumb">
-                            <img src="{{asset('/')}}assets/img/farmers/1.jpg" alt="Image Not Found">
-                            <img src="{{asset('/')}}assets/img/farmers/4.jpg" alt="Image Not Found">
-                            <img src="{{asset('/')}}assets/img/farmers/2.jpg" alt="Image Not Found">
-                            <img src="{{asset('/')}}assets/img/farmers/3.jpg" alt="Image Not Found">
+                            <img src="{{asset('/')}}assets/img/farmers/11.jpg" alt="Image Not Found">
+                            <img src="{{asset('/')}}assets/img/farmers/22.jpg" alt="Image Not Found">
+
                         </div>
                     </div>
                 </div>
@@ -310,13 +292,13 @@
                                     <div class="item">
                                         <div class="content">
                                             <p>
-                                                “Targetingconsultation discover apartments. ndulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now always remembering to the point.”
+                                                “Ud-onyenweaku Farm has truly transformed our community. As a local farmer, I've witnessed their dedication to sustainable practices firsthand. Thanks to their guidance and support, my cassava yield has doubled, providing a better future for my family”
                                             </p>
                                         </div>
                                         <div class="provider">
                                             <div class="info">
-                                                <h4>Matthew J. Wyman</h4>
-                                                <span>Senior Consultant</span>
+                                                <h4>Adewale Ibrahim</h4>
+
                                             </div>
                                         </div>
                                     </div>
@@ -329,38 +311,20 @@
                                     <div class="item">
                                         <div class="content">
                                             <p>
-                                                “Consultation discover apartments. ndulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now always remembering to the point.”
+                                                “I've been a loyal customer of Ud-onyenweaku Farm for years, and I can confidently say their products are unmatched in quality. From their rich cocoa to their pure palm oil, each item reflects their commitment to excellence. I'm proud to support such a reputable Nigerian enterprise.”
                                             </p>
                                         </div>
                                         <div class="provider">
                                             <div class="info">
-                                                <h4>Anthom Bu Spar</h4>
-                                                <span>Marketing Manager</span>
+                                                <h4>Chinwe Okafor</h4>
+
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <!-- End Single item -->
-                            <!-- Single item -->
-                            <div class="swiper-slide">
-                                <div class="testimonial-style-two">
-                                    <div class="item">
-                                        <div class="content">
-                                            <p>
-                                                “Business discover apartments. ndulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now always remembering to the point.”
-                                            </p>
-                                        </div>
-                                        <div class="provider">
-                                            <div class="info">
-                                                <h4>Metho k. Partho</h4>
-                                                <span>Senior Developer</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End Single item -->
+
                         </div>
 
                     </div>
@@ -377,7 +341,7 @@
             <div class="row align-center">
                 <div class="col-lg-6 choose-us-style-one">
                     <div class="thumb">
-                        <img src="{{asset('/')}}assets/img/about/1.jpg" alt="Image Not Found">
+                        <img src="{{asset('/')}}assets/img/about/55.jpg" alt="Image Not Found">
                         <div class="shape">
                             <img class="wow fadeInDown" src="{{asset('/')}}assets/img/shape/22.png" alt="Image not found">
                         </div>
@@ -397,18 +361,18 @@
                 </div>
                 <div class="col-lg-6 choose-us-style-one">
                     <h5 class="sub-title">Get to know us</h5>
-                    <h2 class="title">Agriculture matters to <br> the future of development</h2>
+                    <h2 class="title">Agriculture excellence  <br> matters to us</h2>
                     <div class="accordion accordion-regular mt-35" id="faqAccordion">
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingOne">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    What do you add to the soil before you plant a crop?
+                                    What products do you offer from your farm?
                                 </button>
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
                                     <p>
-                                        Bennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week.
+                                        We offer a variety of products including cocoa, palm oil, cassava, potatoes, and corn.
                                     </p>
                                 </div>
                             </div>
@@ -416,13 +380,13 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingTwo">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    Do you use herbicides?
+                                    How does Ud-onyenweaku Farm contribute to sustainable agriculture?
                                 </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
                                     <p>
-                                        Cennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week.
+                                        We employ sustainable farming practices, including organic methods and water conservation techniques, to minimize environmental impact.
                                     </p>
                                 </div>
                             </div>
@@ -430,13 +394,28 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingThree">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Where does the water come from that you use on your crops?
+                                    Can I visit Ud-onyenweaku Farm for a tour?
                                 </button>
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
                                     <p>
-                                        Tennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week.
+                                        Yes, we welcome visitors for educational tours. Please contact us to schedule a visit.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingFour">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    How can local farmers collaborate with Ud-onyenweaku Farm?
+                                </button>
+                            </h2>
+                            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    <p>
+                                        Local farmers can join our training programs and benefit from our agricultural initiatives designed to boost productivity and sustainability.
                                     </p>
                                 </div>
                             </div>

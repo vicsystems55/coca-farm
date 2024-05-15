@@ -12,18 +12,18 @@
 
                 <!-- Single Item -->
                 <div class="swiper-slide banner-style-one">
-                    <div class="banner-thumb bg-cover shadow dark" style="background: url(assets/img/banner/17.jpg);"></div>
+                    <div class="banner-thumb bg-cover shadow dark" style="background: url(assets/img/banner/17-1.jpg);"></div>
                     <div class="container">
                         <div class="row align-center">
                             <div class="col-xl-7">
                                 <div class="content">
-                                    <h4>Original & Natural</h4>
-                                    <h2><strong>Organic Agriculture</strong> Farming Products</h2>
+                                    <h4>Farming</h4>
+                                    <h2><strong>Agricultural </strong>Excellence</h2>
                                     <p>
-                                        Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure horrible margaret suitable he followed.
+                                        Leading the way in innovative and sustainable farming solutions.
                                     </p>
                                     <div class="button">
-                                        <a class="btn btn-theme secondary btn-md radius animation" href="about-us.html">Discover More</a>
+                                        <a class="btn btn-theme secondary btn-md radius animation" href="/about-us">Discover More</a>
                                     </div>
                                 </div>
                             </div>
@@ -34,18 +34,18 @@
 
                 <!-- Single Item -->
                 <div class="swiper-slide banner-style-one">
-                    <div class="banner-thumb bg-cover shadow dark" style="background: url(assets/img/banner/2.jpg);"></div>
+                    <div class="banner-thumb bg-cover shadow dark" style="background: url(assets/img/banner/17-2.jpg);"></div>
                     <div class="container">
                         <div class="row align-center">
                             <div class="col-xl-7">
                                 <div class="content">
-                                    <h4>Handmade Products</h4>
-                                    <h2><strong>Agriculture Matter</strong> Good production</h2>
+                                    <h4>Service</h4>
+                                    <h2><strong>Community and </strong> Quality</h2>
                                     <p>
-                                        Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure horrible margaret suitable he speedily.
+                                        Committed to community prosperity through premium agricultural products
                                     </p>
                                     <div class="button">
-                                        <a class="btn btn-theme secondary btn-md radius animation" href="about-us.html">Discover More</a>
+                                        <a class="btn btn-theme secondary btn-md radius animation" href="/about-us">Discover More</a>
                                     </div>
                                 </div>
                             </div>
@@ -78,23 +78,23 @@
             <div class="row align-center">
                 <div class="col-xl-5 col-lg-6 about-style-one pr-50 pr-md-15 pr-xs-15">
                     <div class="thumb">
-                        <img src="{{asset('/')}}assets/img/about/5.jpg" alt="Image Not Found">
+                        <img src="{{asset('/')}}assets/img/about/55.jpg" alt="Image Not Found">
                         <div class="sub-item">
-                            <img src="{{asset('/')}}assets/img/about/1.jpg" alt="Image Not Found">
+                            <img src="{{asset('/')}}assets/img/about/11.jpg" alt="Image Not Found">
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-7 col-lg-6 about-style-one">
                     <div class="row align-center">
                         <div class="col-xl-7 col-lg-12">
-                            <h2 class="heading">Agriculture For <br> Future Development</h2>
+                            <h2 class="heading">From Humble <br>  Beginnings </h2>
                             <p>
-                                There are many variations of passages of ipsum available but the majority have suffered alteration in some form by injected humor or random word which don’t look even. Comparison new ham melancholy son themselves.
+                                The Ud-onyenweaku Farm Complex has transformed from the modest Onyenweaku subsistence farm into a leading agricultural hub. Starting from humble origins, it has grown into a renowned commercial farm, focusing on;
                             </p>
                             <ul class="check-solid-list mt-20">
-                                <li>Organic food contains more vitamins</li>
-                                <li>Eat organic because supply meets demand</li>
-                                <li>Organic food is never irradiated</li>
+                                <li>Cash crops like cocoa</li>
+                                <li>Staple crops like corn and cassava</li>
+                                <li>Root crops like potatoe</li>
                             </ul>
                         </div>
                         <div class="col-xl-5 col-lg-12 pl-50 pl-md-15 pl-xs-15">
@@ -102,14 +102,14 @@
                                 <img src="{{asset('/')}}assets/img/icon/1.svg" alt="Icon">
                                 <h5><a href="#">Natural Farming</a></h5>
                                 <p>
-                                    Resolve parties but trying she shewing of moment.
+                                    Growing crops naturally, nurturing future generations
                                 </p>
                             </div>
                             <div class="top-product-item">
                                 <img src="{{asset('/')}}assets/img/icon/2.svg" alt="Icon">
                                 <h5><a href="#">Quality Products</a></h5>
                                 <p>
-                                    Always parties but trying she shewing of moment.
+                                    <Em></Em>Ensuring customer satisfaction always.
                                 </p>
                             </div>
                         </div>
@@ -132,15 +132,15 @@
                     <div class="col-lg-5">
                         <div class="left-info">
                             <h5 class="sub-title">What we do</h5>
-                            <h2 class="title">Currently we are <br> selling organic food</h2>
+                            <h2 class="title">What we <br> represent</h2>
                         </div>
                     </div>
                     <div class="col-lg-6 offset-lg-1">
                         <div class="right-info">
                             <p>
-                                Everything melancholy uncommonly but solicitude inhabiting projection off. Connection stimulated estimating excellence an to impression. ladies she basket season age her uneasy saw. Discourse unwilling am no described.
+
                             </p>
-                            <a class="btn btn-theme btn-md radius animation" href="services.html">Discover More</a>
+                          
                         </div>
                     </div>
                 </div>
@@ -156,11 +156,11 @@
                             <div class="swiper-slide">
                                 <div class="services-style-one">
                                     <div class="thumb">
-                                        <img src="{{asset('/')}}assets/img/thumb/1.png" alt="Image Not Found">
+                                        <img src="https://img.icons8.com/3d-fluency/94/corn.png" alt="corn" alt="Image Not Found">
                                     </div>
-                                    <h5><a href="services-details.html">Fresh Vegetables</a></h5>
+                                    <h5><a href="services-details">Crop Production</a></h5>
                                     <p>
-                                        Continue indulged speaking technical out horrible domestic position. Seeing rather you.
+                                        Specializing in a diverse range of crops to meet market demands.
                                     </p>
 
                                 </div>
@@ -170,11 +170,11 @@
                             <div class="swiper-slide">
                                 <div class="services-style-one">
                                     <div class="thumb">
-                                        <img src="{{asset('/')}}assets/img/thumb/2.png" alt="Image Not Found">
+                                        <img src="https://img.icons8.com/3d-fluency/94/tractor.png" alt="Image Not Found">
                                     </div>
-                                    <h5><a href="services-details.html">Agricultural Products</a></h5>
+                                    <h5><a href="services-details">Farming Innovations</a></h5>
                                     <p>
-                                        Continue indulged speaking technical out horrible domestic position. Seeing rather you.
+                                        Implementing eco-friendly techniques and modern technology.
                                     </p>
                                 </div>
                             </div>
@@ -183,11 +183,11 @@
                             <div class="swiper-slide">
                                 <div class="services-style-one">
                                     <div class="thumb">
-                                        <img src="{{asset('/')}}assets/img/thumb/3.png" alt="Image Not Found">
+                                        <img src="https://img.icons8.com/3d-fluency/94/trust.png" alt="Image Not Found">
                                     </div>
-                                    <h5><a href="services-details.html">Organic Products</a></h5>
+                                    <h5><a href="services-details">Community Engagement</a></h5>
                                     <p>
-                                        Continue indulged speaking technical out horrible domestic position. Seeing rather you.
+                                        Empowering local farmers and communities through education and job creation.
                                     </p>
                                 </div>
                             </div>
@@ -196,28 +196,16 @@
                             <div class="swiper-slide">
                                 <div class="services-style-one">
                                     <div class="thumb">
-                                        <img src="{{asset('/')}}assets/img/thumb/4.png" alt="Image Not Found">
+                                        <img src="https://img.icons8.com/3d-fluency/94/shop.png" alt="Image Not Found">
                                     </div>
-                                    <h5><a href="services-details.html">Dairy Production</a></h5>
+                                    <h5><a href="services-details">Market Presence</a></h5>
                                     <p>
-                                        Continue indulged speaking technical out horrible domestic position. Seeing rather you.
+                                        Ensuring top-quality products reach customers nationwide, fostering trust and satisfaction.
                                     </p>
                                 </div>
                             </div>
                             <!-- End Single Item -->
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <div class="services-style-one">
-                                    <div class="thumb">
-                                        <img src="{{asset('/')}}assets/img/thumb/6.png" alt="Image Not Found">
-                                    </div>
-                                    <h5><a href="services-details.html">Sweet Exotic Fruits</a></h5>
-                                    <p>
-                                        Continue indulged speaking technical out horrible domestic position. Seeing rather you.
-                                    </p>
-                                </div>
-                            </div>
-                            <!-- End Single Item -->
+
                         </div>
 
                     </div>
@@ -236,57 +224,50 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-10 offset-xl-1 mb-50 mb-xs-30">
-                    <h2 class="mask-text" style="background-image: url(assets/img/banner/3.jpg);">Healthy life with fresh products</h2>
+                    <h2 class="mask-text" style="background-image: url(assets/img/banner/3.jpg);">Fresh products</h2>
                 </div>
                 <div class="product-list-box">
                     <!-- Single Item -->
                     <div class="product-list-item">
-                        <a href="services-details.html">
-                            <img src="{{asset('/')}}assets/img/icon/1.png" alt="Icon">
-                            <h5>Blueberry</h5>
+                        <a href="services-details">
+                            <img src="{{asset('/')}}assets/img/icon/cocoa.png" alt="Icon">
+                            <h5>Cocoa</h5>
                         </a>
                     </div>
                     <!-- End Single Item -->
                     <!-- Single Item -->
                     <div class="product-list-item">
-                        <a href="services-details.html">
-                            <img src="{{asset('/')}}assets/img/icon/2.png" alt="Icon">
-                            <h5>Strawberry</h5>
+                        <a href="services-details">
+                            <img src="{{asset('/')}}assets/img/icon/palm-oil.png" alt="Icon">
+                            <h5>Palm Fruit</h5>
                         </a>
                     </div>
                     <!-- End Single Item -->
                     <!-- Single Item -->
                     <div class="product-list-item">
-                        <a href="services-details.html">
-                            <img src="{{asset('/')}}assets/img/icon/3.png" alt="Icon">
-                            <h5>Cabbage</h5>
+                        <a href="services-details">
+                            <img src="{{asset('/')}}assets/img/icon/yucca.png" alt="Icon">
+                            <h5>Cassava</h5>
                         </a>
                     </div>
                     <!-- End Single Item -->
                     <!-- Single Item -->
                     <div class="product-list-item">
-                        <a href="services-details.html">
-                            <img src="{{asset('/')}}assets/img/icon/4.png" alt="Icon">
-                            <h5>Eggplant</h5>
+                        <a href="services-details">
+                            <img src="{{asset('/')}}assets/img/icon/potato.png" alt="Icon">
+                            <h5>Potatoe</h5>
                         </a>
                     </div>
                     <!-- End Single Item -->
                     <!-- Single Item -->
                     <div class="product-list-item">
-                        <a href="services-details.html">
-                            <img src="{{asset('/')}}assets/img/icon/5.png" alt="Icon">
-                            <h5>Orange</h5>
+                        <a href="services-details">
+                            <img src="{{asset('/')}}assets/img/icon/corn.png" alt="Icon">
+                            <h5>Corn</h5>
                         </a>
                     </div>
                     <!-- End Single Item -->
-                    <!-- Single Item -->
-                    <div class="product-list-item">
-                        <a href="services-details.html">
-                            <img src="{{asset('/')}}assets/img/icon/6.png" alt="Icon">
-                            <h5>Apples</h5>
-                        </a>
-                    </div>
-                    <!-- End Single Item -->
+
                 </div>
             </div>
         </div>
@@ -300,7 +281,7 @@
             <div class="row align-center">
                 <div class="col-lg-6 choose-us-style-one">
                     <div class="thumb">
-                        <img src="{{asset('/')}}assets/img/about/1.jpg" alt="Image Not Found">
+                        <img src="{{asset('/')}}assets/img/about/12.jpg" alt="Image Not Found">
                         <div class="shape">
                             <img class="wow fadeInDown" src="{{asset('/')}}assets/img/shape/22.png" alt="Image not found">
                         </div>
@@ -320,18 +301,18 @@
                 </div>
                 <div class="col-lg-6 choose-us-style-one">
                     <h5 class="sub-title">Get to know us</h5>
-                    <h2 class="title">Agriculture matters to <br> the future of development</h2>
+                    <h2 class="title">Agriculture excellence  <br> matters to us</h2>
                     <div class="accordion accordion-regular mt-35" id="faqAccordion">
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingOne">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    What do you add to the soil before you plant a crop?
+                                    What products do you offer from your farm?
                                 </button>
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
                                     <p>
-                                        Bennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week.
+                                        We offer a variety of products including cocoa, palm oil, cassava, potatoes, and corn.
                                     </p>
                                 </div>
                             </div>
@@ -339,13 +320,13 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingTwo">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    Do you use herbicides?
+                                    How does Ud-onyenweaku Farm contribute to sustainable agriculture?
                                 </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
                                     <p>
-                                        Cennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week.
+                                        We employ sustainable farming practices, including organic methods and water conservation techniques, to minimize environmental impact.
                                     </p>
                                 </div>
                             </div>
@@ -353,13 +334,28 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingThree">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Where does the water come from that you use on your crops?
+                                    Can I visit Ud-onyenweaku Farm for a tour?
                                 </button>
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
                                     <p>
-                                        Tennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week.
+                                        Yes, we welcome visitors for educational tours. Please contact us to schedule a visit.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingFour">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    How can local farmers collaborate with Ud-onyenweaku Farm?
+                                </button>
+                            </h2>
+                            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    <p>
+                                        Local farmers can join our training programs and benefit from our agricultural initiatives designed to boost productivity and sustainability.
                                     </p>
                                 </div>
                             </div>
@@ -380,10 +376,9 @@
                     <div class="testimonial-info text-center">
                         <h4>Testimonial</h4>
                         <div class="thumb">
-                            <img src="{{asset('/')}}assets/img/farmers/1.jpg" alt="Image Not Found">
-                            <img src="{{asset('/')}}assets/img/farmers/4.jpg" alt="Image Not Found">
-                            <img src="{{asset('/')}}assets/img/farmers/2.jpg" alt="Image Not Found">
-                            <img src="{{asset('/')}}assets/img/farmers/3.jpg" alt="Image Not Found">
+                            <img src="{{asset('/')}}assets/img/farmers/11.jpg" alt="Image Not Found">
+                            <img src="{{asset('/')}}assets/img/farmers/22.jpg" alt="Image Not Found">
+
                         </div>
                     </div>
                 </div>
@@ -398,13 +393,13 @@
                                     <div class="item">
                                         <div class="content">
                                             <p>
-                                                “Targetingconsultation discover apartments. ndulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now always remembering to the point.”
+                                                “Ud-onyenweaku Farm has truly transformed our community. As a local farmer, I've witnessed their dedication to sustainable practices firsthand. Thanks to their guidance and support, my cassava yield has doubled, providing a better future for my family”
                                             </p>
                                         </div>
                                         <div class="provider">
                                             <div class="info">
-                                                <h4>Matthew J. Wyman</h4>
-                                                <span>Senior Consultant</span>
+                                                <h4>Adewale Ibrahim</h4>
+
                                             </div>
                                         </div>
                                     </div>
@@ -417,38 +412,20 @@
                                     <div class="item">
                                         <div class="content">
                                             <p>
-                                                “Consultation discover apartments. ndulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now always remembering to the point.”
+                                                “I've been a loyal customer of Ud-onyenweaku Farm for years, and I can confidently say their products are unmatched in quality. From their rich cocoa to their pure palm oil, each item reflects their commitment to excellence. I'm proud to support such a reputable Nigerian enterprise.”
                                             </p>
                                         </div>
                                         <div class="provider">
                                             <div class="info">
-                                                <h4>Anthom Bu Spar</h4>
-                                                <span>Marketing Manager</span>
+                                                <h4>Chinwe Okafor</h4>
+
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <!-- End Single item -->
-                            <!-- Single item -->
-                            <div class="swiper-slide">
-                                <div class="testimonial-style-two">
-                                    <div class="item">
-                                        <div class="content">
-                                            <p>
-                                                “Business discover apartments. ndulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now always remembering to the point.”
-                                            </p>
-                                        </div>
-                                        <div class="provider">
-                                            <div class="info">
-                                                <h4>Metho k. Partho</h4>
-                                                <span>Senior Developer</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End Single item -->
+
                         </div>
 
                     </div>
@@ -481,10 +458,10 @@
                             <!-- Single Item -->
                             <div class="swiper-slide">
                                 <div class="gallery-style-one">
-                                    <img src="{{asset('/')}}assets/img/gallery/2.jpg" alt="Thumb">
+                                    <img src="{{asset('/')}}assets/img/gallery/22.jpg" alt="Thumb">
                                     <div class="overlay">
                                         <span>Fruit</span>
-                                        <h4><a href="project-details.html">Healthy Food</a></h4>
+                                        <h4><a href="/about-us">Healthy Food</a></h4>
                                     </div>
                                 </div>
                             </div>
@@ -492,10 +469,10 @@
                             <!-- Single Item -->
                             <div class="swiper-slide">
                                 <div class="gallery-style-one">
-                                    <img src="{{asset('/')}}assets/img/gallery/7.jpg" alt="Thumb">
+                                    <img src="{{asset('/')}}assets/img/gallery/23.jpg" alt="Thumb">
                                     <div class="overlay">
                                         <span>Organic</span>
-                                        <h4><a href="project-details.html">Cow Milk</a></h4>
+                                        <h4><a href="/about-us">Cocoa</a></h4>
                                     </div>
                                 </div>
                             </div>
@@ -503,10 +480,10 @@
                             <!-- Single Item -->
                             <div class="swiper-slide">
                                 <div class="gallery-style-one">
-                                    <img src="{{asset('/')}}assets/img/gallery/3.jpg" alt="Thumb">
+                                    <img src="{{asset('/')}}assets/img/gallery/24.jpg" alt="Thumb">
                                     <div class="overlay">
-                                        <span>Vegetables</span>
-                                        <h4><a href="project-details.html">Organic Vegetables</a></h4>
+                                        <span>Farm</span>
+                                        <h4><a href="/about-us">Palm Harvest</a></h4>
                                     </div>
                                 </div>
                             </div>
@@ -514,10 +491,10 @@
                             <!-- Single Item -->
                             <div class="swiper-slide">
                                 <div class="gallery-style-one">
-                                    <img src="{{asset('/')}}assets/img/gallery/5.jpg" alt="Thumb">
+                                    <img src="{{asset('/')}}assets/img/gallery/25.jpg" alt="Thumb">
                                     <div class="overlay">
-                                        <span>Cereals</span>
-                                        <h4><a href="project-details.html">Fresh Mandrains</a></h4>
+                                        <span>Machinery</span>
+                                        <h4><a href="/about-us">Tractors</a></h4>
                                     </div>
                                 </div>
                             </div>
@@ -526,10 +503,10 @@
                             <!-- Single Item -->
                             <div class="swiper-slide">
                                 <div class="gallery-style-one">
-                                    <img src="{{asset('/')}}assets/img/gallery/10.jpg" alt="Thumb">
+                                    <img src="{{asset('/')}}assets/img/gallery/26.jpg" alt="Thumb">
                                     <div class="overlay">
                                         <span>Havest</span>
-                                        <h4><a href="project-details.html">Crispy Cucumber</a></h4>
+                                        <h4><a href="/about-us">Transportation</a></h4>
                                     </div>
                                 </div>
                             </div>
@@ -561,7 +538,7 @@
                     <div class="col-lg-4 fun-fact-style-one">
                         <div class="heading">
                             <div class="sub-title">Achivements</div>
-                            <h2 class="title">Delivering value <br> since 1956</h2>
+                            <h2 class="title">Delivering value <br> </h2>
                         </div>
                     </div>
                     <div class="col-lg-8 fun-fact-style-one text-end">
@@ -570,10 +547,10 @@
                             <div class="col-lg-4 col-md-4 item">
                                 <div class="fun-fact">
                                     <div class="counter">
-                                        <div class="timer" data-to="250" data-speed="2000">250</div>
+                                        <div class="timer" data-to="10" data-speed="2000">10</div>
                                         <div class="operator">M</div>
                                     </div>
-                                    <span class="medium">Growth Tonns of Harvest</span>
+                                    <span class="medium">Tonns Harvest</span>
                                 </div>
                             </div>
                             <!-- End Single item -->
@@ -594,7 +571,7 @@
                             <div class="col-lg-4 col-md-4 item">
                                 <div class="fun-fact">
                                     <div class="counter">
-                                        <div class="timer" data-to="688" data-speed="2000">688</div>
+                                        <div class="timer" data-to="68" data-speed="2000">68</div>
                                         <div class="operator">K</div>
                                     </div>
                                     <span class="medium">Sales of our Products</span>
@@ -609,190 +586,7 @@
     </div>
     <!-- End Fun Factor Area -->
 
-    <!-- Start Contact Us
-    ============================================= -->
-    <div class="contact-area bg-gray default-padding" style="background-image: url(assets/img/shape/28.png);">
-        <div class="container">
-            <div class="row align-center">
 
-                <div class="col-tact-stye-one col-lg-7">
-                    <div class="contact-form-style-one mb-md-50">
-                        <h5 class="sub-title">Have Questions?</h5>
-                        <h2 class="heading">Send us a Massage</h2>
-                        <form action="https://validthemes.net/site-template/agrul/assets/mail/contact.php" method="POST" class="contact-form contact-form">
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="form-group">
-                                        <input class="form-control" id="name" name="name" placeholder="Name" type="text">
-                                        <span class="alert-error"></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-6">
-                                    <div class="form-group">
-                                        <input class="form-control" id="email" name="email" placeholder="Email*" type="email">
-                                        <span class="alert-error"></span>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6">
-                                    <div class="form-group">
-                                        <input class="form-control" id="phone" name="phone" placeholder="Phone" type="text">
-                                        <span class="alert-error"></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="form-group comments">
-                                        <textarea class="form-control" id="comments" name="comments" placeholder="Tell Us About Project *"></textarea>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <button type="submit" name="submit" id="submit">
-                                        <i class="fa fa-paper-plane"></i> Get in Touch
-                                    </button>
-                                </div>
-                            </div>
-                            <!-- Alert Message -->
-                            <div class="col-lg-12 alert-notification">
-                                <div id="message" class="alert-msg"></div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-
-                <div class="col-tact-stye-one col-lg-5 pl-60 pl-md-15 pl-xs-15">
-                    <div class="contact-style-one-info">
-                        <h2>
-                            Contact
-                            <span>
-                                Information
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none"><path d="M14.4,111.6c0,0,202.9-33.7,471.2,0c0,0-194-8.9-397.3,24.7c0,0,141.9-5.9,309.2,0" style="animation-play-state: running;"></path></svg>
-                            </span>
-                        </h2>
-                        <p>
-                            Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing.
-                        </p>
-                        <ul>
-                            <li class="wow fadeInUp">
-                                <div class="icon">
-                                    <i class="fas fa-phone-alt"></i>
-                                </div>
-                                <div class="content">
-                                    <h5 class="title">Hotline</h5>
-                                    <a href="#">+4733378901</a>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp" data-wow-delay="300ms">
-                                <div class="icon">
-                                    <i class="fas fa-map-marker-alt"></i>
-                                </div>
-                                <div class="info">
-                                    <h5 class="title">Our Location</h5>
-                                    <p>
-                                        55 Main Street, The Grand Avenue 2nd Block, <br> New York City
-                                    </p>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp" data-wow-delay="500ms">
-                                <div class="icon">
-                                    <i class="fas fa-envelope-open-text"></i>
-                                </div>
-                                <div class="info">
-                                    <h5 class="title">Official Email</h5>
-                                    <a href="mailto:info@agrul.com.com">info@agrul.com</a>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
-    <!-- End Contact -->
-
-    <!-- Start Blog Area
-    ============================================= -->
-    <div class="d-none blog-area home-blog blog-grid default-padding bottom-less">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-12 mb-30">
-                    <div class="blog-style-one">
-                        <div class="thumb">
-                            <a href="blog-single-with-sidebar.html"><img src="{{asset('/')}}assets/img/blog/v1.jpg" alt="Image Not Found"></a>
-                            <div class="date"><strong>18</strong> <span>Apr, 22</span></div>
-                        </div>
-                        <div class="info">
-                            <div class="meta">
-                                <ul>
-                                    <li>
-                                        <a href="#"><i class="fas fa-user-circle"></i> Admin</a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fas fa-comments"></i> 26 Comments</a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <h4 class="title">
-                                <a href="blog-single-with-sidebar.html">Announcing if attachment resolution sentiments Possession ye no mr unaffected remarkably</a>
-                            </h4>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 mb-30">
-                    <div class="blog-style-one">
-                        <div class="thumb">
-                            <a href="blog-single-with-sidebar.html"><img src="{{asset('/')}}assets/img/blog/v2.jpg" alt="Image Not Found"></a>
-                            <div class="date"><strong>15</strong> <span>Jul, 22</span></div>
-                        </div>
-                        <div class="info">
-                            <div class="meta">
-                                <ul>
-                                    <li>
-                                        <a href="#"><i class="fas fa-user-circle"></i> User</a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fas fa-comments"></i> 35 Comments</a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <h4 class="title">
-                                <a href="blog-single-with-sidebar.html">Considered imprudence of he friendship day</a>
-                            </h4>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 mb-30">
-                    <div class="blog-style-one">
-                        <div class="thumb">
-                            <a href="blog-single-with-sidebar.html"><img src="{{asset('/')}}assets/img/blog/v3.jpg" alt="Image Not Found"></a>
-                            <div class="date"><strong>24</strong> <span>Feb, 22</span></div>
-                        </div>
-                        <div class="info">
-                            <div class="meta">
-                                <ul>
-                                    <li>
-                                        <a href="#"><i class="fas fa-user-circle"></i> User</a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fas fa-comments"></i> 12 Comments</a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <h4 class="title">
-                                <a href="blog-single-with-sidebar.html">Overcame breeding or concerns removing past</a>
-                            </h4>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Blog Area -->
 
 @endsection
 
