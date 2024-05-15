@@ -29,11 +29,31 @@
         <div class="container">
             <div class="row align-center">
 
+
+
                 <div class="col-tact-stye-one col-lg-7 mb-md-50">
                     <div class="contact-form-style-one">
                         <h5 class="sub-title">Have Questions?</h5>
-                        <h2 class="heading">Send us a Massage</h2>
-                        <form action="https://validthemes.net/site-template/UD Farms/assets/mail/contact.php" method="POST" class="contact-form contact-form">
+                        <h2 class="heading">Send us a Message</h2>
+
+                        @if (Session::has('msg'))
+
+                        <p class="alert alert-success">{{Session::get('msg')}}</p>
+
+                        @endif
+
+
+                        @if ($errors->any())
+                        @foreach ($errors->all() as $error)
+                            <p class="alert alert-warning">{{$error}}</p>
+                        @endforeach
+                        @endif
+
+
+
+                        <form method="post" action="/send-message"  class="">
+
+                            @csrf
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="form-group">
@@ -59,21 +79,21 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="form-group comments">
-                                        <textarea class="form-control" id="comments" name="comments" placeholder="Tell Us About Project *"></textarea>
+                                        <textarea class="form-control" id="comments" name="message" placeholder="Tell Us About Project *"></textarea>
                                     </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <button type="submit" name="submit" id="submit">
+                                    <button type="submit" >
                                         <i class="fa fa-paper-plane"></i> Get in Touch
                                     </button>
                                 </div>
                             </div>
                             <!-- Alert Message -->
-                            <div class="col-lg-12 alert-notification">
+                            {{-- <div class="col-lg-12 alert-notification">
                                 <div id="message" class="alert-msg"></div>
-                            </div>
+                            </div> --}}
                         </form>
                     </div>
                 </div>
