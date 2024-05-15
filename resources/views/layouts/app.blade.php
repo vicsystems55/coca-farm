@@ -1,14 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
-<!-- Mirrored from validthemes.net/site-template/agrul/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 11 May 2024 20:44:48 GMT -->
 <head>
     <!-- ========== Meta Tags ========== -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="UD-FARMS - Agricultural Excellence">
+    <meta name="description" content="Discover the excellence of Nigerian farming with Ud-onyenweaku Farm's sustainable practices and quality crops.">
+
+    <meta property="og:title" content="Ud-onyenweaku Farm Complex – Pioneering Agriculture in Nigeria">
+    <meta property="og:description" content="Explore sustainable farming practices and premium agricultural products from Nigeria's leading farm.">
+    <meta property="og:image" content="{{asset('/')}}assets/img/seo/og-image.jpg">
+    <meta property="og:url" content="https://udonyenweakufarm.com">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Ud-onyenweaku Farm Complex">
+
+    <meta name="keywords" content="Ud-onyenweaku Farm, agriculture, Nigeria, cocoa, cassava, palm oil, sustainable farming">
+    <link rel="canonical" href="https://udonyenweakufarm.com">
 
     <!-- ========== Page Title ========== -->
     <title>UD-FARMS - Agricultural Excellence</title>
@@ -341,5 +349,4 @@
 
 </body>
 
-<!-- Mirrored from validthemes.net/site-template/agrul/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 11 May 2024 20:45:23 GMT -->
 </html>
