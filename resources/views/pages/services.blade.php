@@ -2,7 +2,7 @@
 
 @section('content')
 
- 
+
 
      <!-- Start Breadcrumb
     ============================================= -->
@@ -27,7 +27,27 @@
     ============================================= -->
     <div class="services-style-one-area default-padding bg-gray half-bg-theme">
         <div class="shape-extra">
-            <img src="assets/img/shape/18.png" alt="Image Not Found">
+            <img src="{{asset('/')}}assets/img/shape/18.png" alt="Image Not Found">
+        </div>
+        <div class="container">
+            <div class="heading-left">
+                <div class="row">
+                    <div class="col-lg-5">
+                        <div class="left-info">
+                            <h5 class="sub-title">What we do</h5>
+                            <h2 class="title">What we  represent</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 offset-lg-1">
+                        <div class="right-info">
+                            <p>
+
+                            </p>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
         <div class="container">
             <div class="row">
@@ -39,11 +59,11 @@
                             <div class="swiper-slide">
                                 <div class="services-style-one">
                                     <div class="thumb">
-                                        <img src="assets/img/thumb/1.png" alt="Image Not Found">
+                                        <img src="https://img.icons8.com/3d-fluency/94/corn.png" alt="corn" alt="Image Not Found">
                                     </div>
-                                    <h5><a href="services-details.html">Fresh Vegetables</a></h5>
+                                    <h5><a href="services-details">Crop Production</a></h5>
                                     <p>
-                                        Continue indulged speaking technical out horrible domestic position. Seeing rather you.
+                                        Specializing in a diverse range of crops to meet market demands.
                                     </p>
 
                                 </div>
@@ -53,11 +73,11 @@
                             <div class="swiper-slide">
                                 <div class="services-style-one">
                                     <div class="thumb">
-                                        <img src="assets/img/thumb/2.png" alt="Image Not Found">
+                                        <img src="https://img.icons8.com/3d-fluency/94/tractor.png" alt="Image Not Found">
                                     </div>
-                                    <h5><a href="services-details.html">Agricultural Products</a></h5>
+                                    <h5><a href="services-details">Farming Innovations</a></h5>
                                     <p>
-                                        Continue indulged speaking technical out horrible domestic position. Seeing rather you.
+                                        Implementing eco-friendly techniques and modern technology.
                                     </p>
                                 </div>
                             </div>
@@ -66,11 +86,11 @@
                             <div class="swiper-slide">
                                 <div class="services-style-one">
                                     <div class="thumb">
-                                        <img src="assets/img/thumb/3.png" alt="Image Not Found">
+                                        <img src="https://img.icons8.com/3d-fluency/94/trust.png" alt="Image Not Found">
                                     </div>
-                                    <h5><a href="services-details.html">Organic Products</a></h5>
+                                    <h5><a href="services-details">Community Engagement</a></h5>
                                     <p>
-                                        Continue indulged speaking technical out horrible domestic position. Seeing rather you.
+                                        Empowering local farmers and communities through education and job creation.
                                     </p>
                                 </div>
                             </div>
@@ -79,28 +99,16 @@
                             <div class="swiper-slide">
                                 <div class="services-style-one">
                                     <div class="thumb">
-                                        <img src="assets/img/thumb/4.png" alt="Image Not Found">
+                                        <img src="https://img.icons8.com/3d-fluency/94/shop.png" alt="Image Not Found">
                                     </div>
-                                    <h5><a href="services-details.html">Dairy Production</a></h5>
+                                    <h5><a href="services-details">Market Presence</a></h5>
                                     <p>
-                                        Continue indulged speaking technical out horrible domestic position. Seeing rather you.
+                                        Ensuring top-quality products reach customers nationwide, fostering trust and satisfaction.
                                     </p>
                                 </div>
                             </div>
                             <!-- End Single Item -->
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <div class="services-style-one">
-                                    <div class="thumb">
-                                        <img src="assets/img/thumb/6.png" alt="Image Not Found">
-                                    </div>
-                                    <h5><a href="services-details.html">Sweet Exotic Fruits</a></h5>
-                                    <p>
-                                        Continue indulged speaking technical out horrible domestic position. Seeing rather you.
-                                    </p>
-                                </div>
-                            </div>
-                            <!-- End Single Item -->
+
                         </div>
 
                     </div>
@@ -119,7 +127,7 @@
                     <div class="col-lg-4 fun-fact-style-one">
                         <div class="heading">
                             <div class="sub-title">Achivements</div>
-                            <h2 class="title">Delivering value <br> since 1956</h2>
+                            <h2 class="title">Delivering value </h2>
                         </div>
                     </div>
                     <div class="col-lg-8 fun-fact-style-one text-end">
@@ -128,7 +136,7 @@
                             <div class="col-lg-4 col-md-4 item">
                                 <div class="fun-fact">
                                     <div class="counter">
-                                        <div class="timer" data-to="250" data-speed="2000">250</div>
+                                        <div class="timer" data-to="10" data-speed="2000">250</div>
                                         <div class="operator">M</div>
                                     </div>
                                     <span class="medium">Growth Tonns of Harvest</span>
@@ -152,10 +160,10 @@
                             <div class="col-lg-4 col-md-4 item">
                                 <div class="fun-fact">
                                     <div class="counter">
-                                        <div class="timer" data-to="688" data-speed="2000">688</div>
+                                        <div class="timer" data-to="68" data-speed="2000">68</div>
                                         <div class="operator">K</div>
                                     </div>
-                                    <span class="medium">Sales of our Products</span>
+                                    <span class="medium">Products</span>
                                 </div>
                             </div>
                             <!-- End Single item -->
@@ -174,9 +182,9 @@
             <div class="row align-center">
                 <div class="col-lg-6 choose-us-style-one">
                     <div class="thumb">
-                        <img src="assets/img/about/1.jpg" alt="Image Not Found">
+                        <img src="{{asset('/')}}assets/img/about/12.jpg" alt="Image Not Found">
                         <div class="shape">
-                            <img class="wow fadeInDown" src="assets/img/shape/22.png" alt="Image not found">
+                            <img class="wow fadeInDown" src="{{asset('/')}}assets/img/shape/22.png" alt="Image not found">
                         </div>
                         <div class="product-produce">
                             <div class="icon">
@@ -194,18 +202,18 @@
                 </div>
                 <div class="col-lg-6 choose-us-style-one">
                     <h5 class="sub-title">Get to know us</h5>
-                    <h2 class="title">Agriculture matters to <br> the future of development</h2>
+                    <h2 class="title">Agriculture excellence  <br> matters to us</h2>
                     <div class="accordion accordion-regular mt-35" id="faqAccordion">
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingOne">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    What do you add to the soil before you plant a crop?
+                                    What products do you offer from your farm?
                                 </button>
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
                                     <p>
-                                        Bennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week.
+                                        We offer a variety of products including cocoa, palm oil, cassava, potatoes, and corn.
                                     </p>
                                 </div>
                             </div>
@@ -213,13 +221,13 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingTwo">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    Do you use herbicides?
+                                    How does Ud-onyenweaku Farm contribute to sustainable agriculture?
                                 </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
                                     <p>
-                                        Cennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week.
+                                        We employ sustainable farming practices, including organic methods and water conservation techniques, to minimize environmental impact.
                                     </p>
                                 </div>
                             </div>
@@ -227,13 +235,28 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingThree">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Where does the water come from that you use on your crops?
+                                    Can I visit Ud-onyenweaku Farm for a tour?
                                 </button>
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
                                     <p>
-                                        Tennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week.
+                                        Yes, we welcome visitors for educational tours. Please contact us to schedule a visit.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingFour">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    How can local farmers collaborate with Ud-onyenweaku Farm?
+                                </button>
+                            </h2>
+                            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    <p>
+                                        Local farmers can join our training programs and benefit from our agricultural initiatives designed to boost productivity and sustainability.
                                     </p>
                                 </div>
                             </div>
@@ -245,92 +268,7 @@
     </div>
     <!-- End Why Choose us -->
 
-    <!-- Start Testimonials
-    ============================================= -->
-    <div class="testimonials-area default-padding bg-gray" style="background-image: url(assets/img/shape/23.png);">
-        <div class="container">
-            <div class="row align-center">
-                <div class="col-lg-5">
-                    <div class="testimonial-info text-center">
-                        <h4>Testimonial</h4>
-                        <div class="thumb">
-                            <img src="assets/img/farmers/1.jpg" alt="Image Not Found">
-                            <img src="assets/img/farmers/4.jpg" alt="Image Not Found">
-                            <img src="assets/img/farmers/2.jpg" alt="Image Not Found">
-                            <img src="assets/img/farmers/3.jpg" alt="Image Not Found">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 offset-lg-1">
-                    <div class="testimonial-carousel testimonial-style-one swiper">
-                        <!-- Additional required wrapper -->
-                        <div class="swiper-wrapper">
-                            <!-- Single item -->
-                            <div class="swiper-slide">
-                                <div class="testimonial-style-two">
 
-                                    <div class="item">
-                                        <div class="content">
-                                            <p>
-                                                “Targetingconsultation discover apartments. ndulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now always remembering to the point.”
-                                            </p>
-                                        </div>
-                                        <div class="provider">
-                                            <div class="info">
-                                                <h4>Matthew J. Wyman</h4>
-                                                <span>Senior Consultant</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End Single item -->
-                            <!-- Single item -->
-                            <div class="swiper-slide">
-                                <div class="testimonial-style-two">
-                                    <div class="item">
-                                        <div class="content">
-                                            <p>
-                                                “Consultation discover apartments. ndulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now always remembering to the point.”
-                                            </p>
-                                        </div>
-                                        <div class="provider">
-                                            <div class="info">
-                                                <h4>Anthom Bu Spar</h4>
-                                                <span>Marketing Manager</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End Single item -->
-                            <!-- Single item -->
-                            <div class="swiper-slide">
-                                <div class="testimonial-style-two">
-                                    <div class="item">
-                                        <div class="content">
-                                            <p>
-                                                “Business discover apartments. ndulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now always remembering to the point.”
-                                            </p>
-                                        </div>
-                                        <div class="provider">
-                                            <div class="info">
-                                                <h4>Metho k. Partho</h4>
-                                                <span>Senior Developer</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End Single item -->
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Testimonials -->
 
     <!-- Start Brand
     ============================================= -->
