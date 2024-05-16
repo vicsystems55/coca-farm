@@ -140,7 +140,7 @@
                             <p>
 
                             </p>
-                          
+
                         </div>
                     </div>
                 </div>
@@ -158,7 +158,7 @@
                                     <div class="thumb">
                                         <img src="https://img.icons8.com/3d-fluency/94/corn.png" alt="corn" alt="Image Not Found">
                                     </div>
-                                    <h5><a href="services-details">Crop Production</a></h5>
+                                    <h5><a href="#">Crop Production</a></h5>
                                     <p>
                                         Specializing in a diverse range of crops to meet market demands.
                                     </p>
@@ -172,7 +172,7 @@
                                     <div class="thumb">
                                         <img src="https://img.icons8.com/3d-fluency/94/tractor.png" alt="Image Not Found">
                                     </div>
-                                    <h5><a href="services-details">Farming Innovations</a></h5>
+                                    <h5><a href="#">Farming Innovations</a></h5>
                                     <p>
                                         Implementing eco-friendly techniques and modern technology.
                                     </p>
@@ -185,7 +185,7 @@
                                     <div class="thumb">
                                         <img src="https://img.icons8.com/3d-fluency/94/trust.png" alt="Image Not Found">
                                     </div>
-                                    <h5><a href="services-details">Community Engagement</a></h5>
+                                    <h5><a href="#">Community Engagement</a></h5>
                                     <p>
                                         Empowering local farmers and communities through education and job creation.
                                     </p>
@@ -198,7 +198,7 @@
                                     <div class="thumb">
                                         <img src="https://img.icons8.com/3d-fluency/94/shop.png" alt="Image Not Found">
                                     </div>
-                                    <h5><a href="services-details">Market Presence</a></h5>
+                                    <h5><a href="#">Market Presence</a></h5>
                                     <p>
                                         Ensuring top-quality products reach customers nationwide, fostering trust and satisfaction.
                                     </p>
@@ -229,7 +229,7 @@
                 <div class="product-list-box">
                     <!-- Single Item -->
                     <div class="product-list-item">
-                        <a href="services-details">
+                        <a href="#">
                             <img src="{{asset('/')}}assets/img/icon/cocoa.png" alt="Icon">
                             <h5>Cocoa</h5>
                         </a>
@@ -237,7 +237,7 @@
                     <!-- End Single Item -->
                     <!-- Single Item -->
                     <div class="product-list-item">
-                        <a href="services-details">
+                        <a href="#">
                             <img src="{{asset('/')}}assets/img/icon/palm-oil.png" alt="Icon">
                             <h5>Palm Fruit</h5>
                         </a>
@@ -245,7 +245,7 @@
                     <!-- End Single Item -->
                     <!-- Single Item -->
                     <div class="product-list-item">
-                        <a href="services-details">
+                        <a href="#">
                             <img src="{{asset('/')}}assets/img/icon/yucca.png" alt="Icon">
                             <h5>Cassava</h5>
                         </a>
@@ -253,7 +253,7 @@
                     <!-- End Single Item -->
                     <!-- Single Item -->
                     <div class="product-list-item">
-                        <a href="services-details">
+                        <a href="#">
                             <img src="{{asset('/')}}assets/img/icon/potato.png" alt="Icon">
                             <h5>Potatoe</h5>
                         </a>
@@ -261,7 +261,7 @@
                     <!-- End Single Item -->
                     <!-- Single Item -->
                     <div class="product-list-item">
-                        <a href="services-details">
+                        <a href="#">
                             <img src="{{asset('/')}}assets/img/icon/corn.png" alt="Icon">
                             <h5>Corn</h5>
                         </a>
