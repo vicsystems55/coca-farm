@@ -13,7 +13,7 @@
                     <h1>Our Services</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                            <li><a href="index-2.html"><i class="fas fa-home"></i> Home</a></li>
+                            <li><a href="/"><i class="fas fa-home"></i> Home</a></li>
                             <li class="active">Services</li>
                         </ol>
                     </nav>
@@ -61,7 +61,10 @@
                                     <div class="thumb">
                                         <img src="https://img.icons8.com/3d-fluency/94/corn.png" alt="corn" alt="Image Not Found">
                                     </div>
-                                    <h5><a href="services-details">Crop Production</a></h5>
+                                    <h5>
+                                        <a href="/about-us">
+                                        Crop Production</a>
+                                    </h5>
                                     <p>
                                         Specializing in a diverse range of crops to meet market demands.
                                     </p>
@@ -75,7 +78,10 @@
                                     <div class="thumb">
                                         <img src="https://img.icons8.com/3d-fluency/94/tractor.png" alt="Image Not Found">
                                     </div>
-                                    <h5><a href="services-details">Farming Innovations</a></h5>
+                                    <h5>
+                                        <a href="/about-us">
+                                        Farming Innovations</a>
+                                    </h5>
                                     <p>
                                         Implementing eco-friendly techniques and modern technology.
                                     </p>
@@ -88,7 +94,10 @@
                                     <div class="thumb">
                                         <img src="https://img.icons8.com/3d-fluency/94/trust.png" alt="Image Not Found">
                                     </div>
-                                    <h5><a href="services-details">Community Engagement</a></h5>
+                                    <h5>
+                                        <a href="/about-us">
+                                        Community Engagement</a>
+                                    </h5>
                                     <p>
                                         Empowering local farmers and communities through education and job creation.
                                     </p>
@@ -101,7 +110,10 @@
                                     <div class="thumb">
                                         <img src="https://img.icons8.com/3d-fluency/94/shop.png" alt="Image Not Found">
                                     </div>
-                                    <h5><a href="services-details">Market Presence</a></h5>
+                                    <h5>
+                                        <a href="/about-us">
+                                        Market Presence</a>
+                                    </h5>
                                     <p>
                                         Ensuring top-quality products reach customers nationwide, fostering trust and satisfaction.
                                     </p>

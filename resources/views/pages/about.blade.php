@@ -11,7 +11,7 @@
                     <h1>About Us</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                            <li><a href="index-2"><i class="fas fa-home"></i> Home</a></li>
+                            <li><a href="/"><i class="fas fa-home"></i> Home</a></li>
                             <li class="active">About</li>
                         </ol>
                     </nav>
