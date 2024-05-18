@@ -100,14 +100,14 @@
                         <div class="col-xl-5 col-lg-12 pl-50 pl-md-15 pl-xs-15">
                             <div class="top-product-item">
                                 <img src="{{asset('/')}}assets/img/icon/1.svg" alt="Icon">
-                                <h5><a href="#">Natural Farming</a></h5>
+                                <h5><a href="/about-us">Natural Farming</a></h5>
                                 <p>
                                     Growing crops naturally, nurturing future generations
                                 </p>
                             </div>
                             <div class="top-product-item">
                                 <img src="{{asset('/')}}assets/img/icon/2.svg" alt="Icon">
-                                <h5><a href="#">Quality Products</a></h5>
+                                <h5><a href="/about-us">Quality Products</a></h5>
                                 <p>
                                     <Em></Em>Ensuring customer satisfaction always.
                                 </p>
@@ -158,7 +158,9 @@
                                     <div class="thumb">
                                         <img src="https://img.icons8.com/3d-fluency/94/corn.png" alt="corn" alt="Image Not Found">
                                     </div>
-                                    <h5><a href="#">Crop Production</a></h5>
+                                    <h5>
+                                       Crop Production
+                                    </h5>
                                     <p>
                                         Specializing in a diverse range of crops to meet market demands.
                                     </p>
@@ -172,7 +174,11 @@
                                     <div class="thumb">
                                         <img src="https://img.icons8.com/3d-fluency/94/tractor.png" alt="Image Not Found">
                                     </div>
-                                    <h5><a href="#">Farming Innovations</a></h5>
+                                    <h5>
+
+                                            Farming Innovations
+
+                                    </h5>
                                     <p>
                                         Implementing eco-friendly techniques and modern technology.
                                     </p>
@@ -185,7 +191,11 @@
                                     <div class="thumb">
                                         <img src="https://img.icons8.com/3d-fluency/94/trust.png" alt="Image Not Found">
                                     </div>
-                                    <h5><a href="#">Community Engagement</a></h5>
+                                    <h5>
+
+                                            Community Engagement
+
+                                    </h5>
                                     <p>
                                         Empowering local farmers and communities through education and job creation.
                                     </p>
@@ -198,7 +208,11 @@
                                     <div class="thumb">
                                         <img src="https://img.icons8.com/3d-fluency/94/shop.png" alt="Image Not Found">
                                     </div>
-                                    <h5><a href="#">Market Presence</a></h5>
+                                    <h5>
+
+                                            Market Presence
+
+                                    </h5>
                                     <p>
                                         Ensuring top-quality products reach customers nationwide, fostering trust and satisfaction.
                                     </p>
@@ -229,42 +243,42 @@
                 <div class="product-list-box">
                     <!-- Single Item -->
                     <div class="product-list-item">
-                        <a href="#">
+
                             <img src="{{asset('/')}}assets/img/icon/cocoa.png" alt="Icon">
                             <h5>Cocoa</h5>
-                        </a>
+
                     </div>
                     <!-- End Single Item -->
                     <!-- Single Item -->
                     <div class="product-list-item">
-                        <a href="#">
+
                             <img src="{{asset('/')}}assets/img/icon/palm-oil.png" alt="Icon">
                             <h5>Palm Fruit</h5>
-                        </a>
+
                     </div>
                     <!-- End Single Item -->
                     <!-- Single Item -->
                     <div class="product-list-item">
-                        <a href="#">
+
                             <img src="{{asset('/')}}assets/img/icon/yucca.png" alt="Icon">
                             <h5>Cassava</h5>
-                        </a>
+
                     </div>
                     <!-- End Single Item -->
                     <!-- Single Item -->
                     <div class="product-list-item">
-                        <a href="#">
+
                             <img src="{{asset('/')}}assets/img/icon/potato.png" alt="Icon">
                             <h5>Potatoe</h5>
-                        </a>
+
                     </div>
                     <!-- End Single Item -->
                     <!-- Single Item -->
                     <div class="product-list-item">
-                        <a href="#">
+
                             <img src="{{asset('/')}}assets/img/icon/corn.png" alt="Icon">
                             <h5>Corn</h5>
-                        </a>
+
                     </div>
                     <!-- End Single Item -->
 
