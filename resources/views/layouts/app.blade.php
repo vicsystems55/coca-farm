@@ -128,18 +128,19 @@
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                         <i class="fa fa-bars"></i>
                     </button>
-                    <a class="navbar-brand" href="index-2.html">
+                    <a class="navbar-brand" href="/">
                         <img src="{{asset('/')}}assets/img/logo2.png" class="logo" alt="Logo">
                     </a>
                 </div>
                 <!-- End Header Navigation -->
+
 
                 <!-- Main Nav -->
                 <div class="main-nav-content">
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse" id="navbar-menu">
 
-                        <img src="{{asset('/')}}assets/img/logo.png" alt="Logo">
+                        <img src="{{asset('/')}}assets/img/logo2.png" alt="Logo">
                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                             <i class="fa fa-times"></i>
                         </button>
