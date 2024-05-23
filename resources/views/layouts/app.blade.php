@@ -74,26 +74,19 @@
                 <div class="col-lg-3 text-end">
                     <div class="social">
                         <ul>
+
                             <li>
-                                <a href="#">
-                                    <i class="fab fa-facebook-f"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
+                                <a href="https://twitter.com/UdFarms">
                                     <i class="fab fa-twitter"></i>
                                 </a>
                             </li>
+
                             <li>
-                                <a href="#">
-                                    <i class="fab fa-youtube"></i>
+                                <a href="https://www.instagram.com/ud_onyenweaku?igsh=OW1jb2d1N3czMXEy">
+                                    <i class="fab fa-instagram"></i>
                                 </a>
                             </li>
-                            <li>
-                                <a href="#">
-                                    <i class="fab fa-linkedin-in"></i>
-                                </a>
-                            </li>
+
                         </ul>
                     </div>
                 </div>
