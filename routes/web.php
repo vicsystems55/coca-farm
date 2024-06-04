@@ -8,12 +8,11 @@ Route::get('/', [PageController::class, 'index']);
 
 Route::get('/about-us', [PageController::class, 'about']);
 
-
 Route::get('/services', [PageController::class, 'services']);
 
+Route::get('/management', [PageController::class, 'management']);
 
 Route::get('/gallery', [PageController::class, 'gallery']);
-
 
 Route::get('/contact-us', [PageController::class, 'contact']);
 
