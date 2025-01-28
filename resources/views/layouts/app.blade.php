@@ -140,28 +140,28 @@
 
                         <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
                             <li class="">
-                                <a href="/" class="dropdown-toggle" data-toggle="dropdown" >Home</a>
+                                <a href="/"  >Home</a>
 
                             </li>
 
                             <li class="">
-                                <a href="/about-us" class="dropdown-toggle" data-toggle="dropdown" >About</a>
+                                <a href="/about-us"  >About</a>
 
                             </li>
                             <li class="">
-                                <a href="/services" class="dropdown-toggle" data-toggle="dropdown" >Services</a>
+                                <a href="/services">Services</a>
 
                             </li>
                             <li class="">
-                                <a href="/gallery" class="dropdown-toggle" data-toggle="dropdown" >Gallery</a>
+                                <a href="/gallery"  >Gallery</a>
 
                             </li>
                             <li class="">
-                                <a href="/management" class="dropdown-toggle" data-toggle="dropdown" >Management</a>
+                                <a href="/management"  >Management</a>
 
                             </li>
                             <li class="">
-                                <a href="/contact-us" class="dropdown-toggle" data-toggle="dropdown" >Contact</a>
+                                <a href="/contact-us"  >Contact</a>
 
                             </li>
                         </ul>
